@@ -1,3 +1,4 @@
 ---
 title: Singularity
+layout: article
 ---
